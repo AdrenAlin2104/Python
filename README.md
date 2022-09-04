@@ -7,5 +7,8 @@
 ![image](https://user-images.githubusercontent.com/101996154/188288110-9b5eddef-55fa-4d1e-93d4-946da373b2b6.png)
 #### :white_check_mark: Оценка выборок с помощью корреляций Пирсона и Спирмана
 ![image](https://user-images.githubusercontent.com/101996154/188288136-a751cdc4-2c0f-48ff-a507-7c2cdc76c107.png)
-
 ![image](https://user-images.githubusercontent.com/101996154/188288047-e5f1e9fe-dfcb-4aeb-a85a-6db515eeb2b7.png)
+
+
+## Создание нескольких графиком с помощью сплитования 
+![image](https://user-images.githubusercontent.com/101996154/188317513-7cf66972-bc04-430a-86ac-d63751455e60.png)
